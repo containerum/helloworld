@@ -2,9 +2,9 @@
 Simple app for the first deploy on Containerum
 
 ![](colored_containerum.jpg)
-## How to run
+## How to deploy on Containerum
 
-**1.** Sign Up at containerum.com
+**1.** Sign Up at [containerum.com](https://containerum.com)
 
 **2.** Install CLI Containerum `chkit` following [instruction](https://containerum.com/documentation/Installing-Containerum-CLI-from-binaries).
 
