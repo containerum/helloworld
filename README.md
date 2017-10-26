@@ -19,7 +19,7 @@ Chosen namespace: mynamespace
 Successful login
 Token changed to:  QA0u64rOkTtCxxxxxxxxxxliUAnBnPlCbGQfpCQpzqM=
 ```
-**3.** Let's deploy any app from the [DockerHub](https://hub.docker.com), let it be [Hello, World! It's Containerum](https://hub.docker.com/r/containerum/helloworld/).
+**3.** Let's deploy [Hello, World! It's Containerum](https://hub.docker.com/r/containerum/helloworld/).
 
 **4.** Use `chkit run` command:
 ```
