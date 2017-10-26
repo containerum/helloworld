@@ -43,7 +43,7 @@ expose... OK
 ```
 **5.** Use `chkit get` command:
 ```
-$ chkit get deploy
+$ chkit get svc
 
 +------------+--------------+---------+-------------------+----------------+-----+
 | NAME       | CLUSTER-IP   | EXTERNAL| HOST              | PORT(S)        | AGE |
