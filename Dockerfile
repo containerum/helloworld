@@ -1,4 +1,8 @@
 FROM node:slim
-RUN npm install -g serve
+
 COPY . /
-CMD serve -s .
+RUN npm install
+
+EXPOSE 80
+
+CMD npm run serve
